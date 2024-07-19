@@ -15,7 +15,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.da_chelimo.generate.core.presentation.ui.Home
 import com.da_chelimo.generate.core.presentation.ui.screens.HomeScreen
-import com.da_chelimo.generate.core.presentation.theme.GenerateTheme
+import com.da_chelimo.generate.core.presentation.theme.AppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         super.onCreate(savedInstanceState)
         setContent {
-            GenerateTheme {
+            AppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Column(Modifier.padding(innerPadding)) {
 
