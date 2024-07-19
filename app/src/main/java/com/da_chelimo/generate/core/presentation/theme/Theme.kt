@@ -1,4 +1,4 @@
-package com.da_chelimo.generate.core.presentation.ui.theme
+package com.da_chelimo.generate.core.presentation.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

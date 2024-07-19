@@ -1,4 +1,4 @@
-package com.da_chelimo.generate.core.data.repo.local.dao
+package com.da_chelimo.generate.core.repo.local.dao
 
 import androidx.room.Dao
 import androidx.room.Insert

@@ -15,7 +15,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.da_chelimo.generate.core.presentation.ui.Home
 import com.da_chelimo.generate.core.presentation.ui.screens.HomeScreen
-import com.da_chelimo.generate.core.presentation.ui.theme.GenerateTheme
+import com.da_chelimo.generate.core.presentation.theme.GenerateTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.da_chelimo.generate.core.presentation.ui.theme
+package com.da_chelimo.generate.core.presentation.theme
 
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily

@@ -1,4 +1,4 @@
-package com.da_chelimo.generate.core.data.repo.local.entity
+package com.da_chelimo.generate.core.repo.local.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
