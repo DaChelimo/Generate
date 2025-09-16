@@ -2,7 +2,7 @@ package com.da_chelimo.generate.di
 
 import android.content.Context
 import androidx.room.Room
-import com.da_chelimo.generate.core.data.repo.local.AppDatabase
+import com.da_chelimo.generate.core.repo.local.AppDatabase
 import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
 
